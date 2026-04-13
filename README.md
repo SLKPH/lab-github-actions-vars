@@ -1,6 +1,6 @@
 # Respostas do Lab
 
-## 1. Por que a Secret aparece como **?
+# 1. Por que a Secret aparece como **?
 Porque o GitHub mascara automaticamente secrets por segurança.
 
 ## 2. O job deploy_app consegue acessar BUILD_VERSION?
